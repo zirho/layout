@@ -1,7 +1,19 @@
+## Installation
+
+```
+git clone https://github.com/zirho/layout
+
+cd layout
+
+yarn
+
+yarn start
+```
+
 ## Responsive layout with
 
  * browser-sync server
- * auth refresh when files are updated
+ * auto refresh when files are updated
  * fixed header
  * sticky footer
  * responsive left sidebar
