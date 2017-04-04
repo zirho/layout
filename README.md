@@ -14,6 +14,7 @@ yarn start
 
  * browser-sync server
  * auto refresh when files are updated
+ * 100% HTML & CSS
  * fixed header
  * sticky footer
  * responsive left sidebar
